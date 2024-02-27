@@ -17,7 +17,7 @@ if __name__ == '__main__':
                                                                   "Units" : "Grams"},
                                      "Curd - (in White Sauce)" : {"Quantity" : round(9.3*chicken_gyro_num, round_digits),
                                                                   "Units" : "Grams"},
-                                     "Vinegar - (in White Sauce)" : {"Quantity" : round(6.25*chicken_gyro_num,round_digits),
+                                     "Vinegar - (in White Sauce)" : {"Quantity" : round(4*chicken_gyro_num,round_digits),
                                                                   "Units" : "Grams"},
                                      "Garlic (in White Source)": {"Quantity": round(.5 * chicken_gyro_num, round_digits),
                                                                     "Units": "Grams"},
